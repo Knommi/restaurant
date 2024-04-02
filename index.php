@@ -97,7 +97,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] == false){
 
     <div class="jumbotron">
         <h1 class="display-4"><i><b>HOT & SPICE</b></i></h1>
-        <p class="lead">Healthy and yummy. Good for your tummy.</p>
+        <p class="lead">FAST and yummy. Good for your tummy.</p>
         <h4>Welcome <?php echo $_SESSION['uname']; ?></h4>
           <hr class="my-4">
           <p><i>Hot & Spice</i> is located in Rander,Surat near Masjid-e-Ali. The owner of the shop is Bilal Valsadwala.
